@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = git@github.com:yasushisakai/racebook_App
+[submodule "server"]
+	path = server
+	url = git@github.com:yasushisakai/racebook_Backend
